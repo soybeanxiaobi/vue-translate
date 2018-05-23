@@ -7,8 +7,9 @@
 ## 安装依赖包
 npm install
 
+npm run dev
+
 浏览器访问 localhost:8080
 
-npm run dev
 
 ```
